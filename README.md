@@ -15,25 +15,27 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 Você pode explorar mais sobre esses projetos e outros no [meu portfólio](https://github.com/Pidiotto/portifolio).
 
-## 🚀 Habilidades
+## 🚀 Tecnologias que uso em meu dia
 
-[![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)](https://www.w3.org/html/)
-[![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)](https://www.w3.org/Style/CSS/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SQL](https://img.shields.io/badge/SQL-Basic-lightgrey)](https://www.w3schools.com/sql/)
-[![PHP](https://img.shields.io/badge/PHP-Basic-purple)](https://www.php.net/)
-[![Node.js](https://img.shields.io/badge/Node.js-Basic-green)](https://nodejs.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+
+
+## 🌐 Me encontre em outras redes também!
+
+* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pidiotto)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagnernardes/)
+* [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Pidiotto/portifolio)
 
 ## 📊 Estatísticas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pidiotto&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Wagner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pidiotto&show_icons=true&theme=tokyonight)
-
-## 🌐 Conecte-se comigo
-
-- [GitHub](https://github.com/Pidiotto)
-- [LinkedIn](https://www.linkedin.com/in/wagnernardes/)
-- [Portfolio](https://github.com/Pidiotto/portifolio)
 
 Vamos construir algo incrível juntos! 😊
