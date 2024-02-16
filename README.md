@@ -13,7 +13,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 - [Jogo da Memória com Emojis](https://github.com/Pidiotto/memory-game)
   - Um divertido jogo da memória com emojis.
 
-Você pode explorar mais sobre esses projetos e outros no [meu portfólio](https://github.com/Pidiotto/portifolio).
+Você pode explorar mais sobre esses projetos e outros no [meu portfólio](https://portifolio2-0-two.vercel.app/).
 
 ## 🚀 Tecnologias que uso em meu dia
 
